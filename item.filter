@@ -91,8 +91,8 @@ ItemDisplay[GOLD>0]: %NAME%
 //║                     ▬▬▬▬▬ [Optional] Rules for Ignoring Misc Items ▬▬▬▬▬                      ║
 //╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
 //ItemDisplay[key]: //Hide keys. You can still buy them.
-//ItemDisplay[gcv OR gcw OR gcg OR gcr OR gcb OR gcy OR skc]: //Ignore Chipped Gems
-//ItemDisplay[gfv OR gfw OR gfg OR gfr OR gfb OR gfy OR skf]: //Ignore Flawed Gems
+ItemDisplay[gcv OR gcw OR gcg OR gcr OR gcb OR gcy OR skc]: //Ignore Chipped Gems
+ItemDisplay[gfv OR gfw OR gfg OR gfr OR gfb OR gfy OR skf]: //Ignore Flawed Gems
 //ItemDisplay[gsv OR gsw OR gsg OR gsr OR gsb OR gsy OR sku]: //Ignore Regular Gems
 //ItemDisplay[gzv OR glw OR glg OR glr OR glb OR gly OR skl]: //Ignore Flawless Gems
 //ItemDisplay[gcv OR gfv OR gsv OR gzv]: //Ignore All Amethysts Except Perfect Amethysts
@@ -102,27 +102,27 @@ ItemDisplay[GOLD>0]: %NAME%
 //ItemDisplay[gcb OR gfb OR gsb OR glb]: //Ignore All Sapphires Except Perfect Sapphires
 //ItemDisplay[gcy OR gfy OR gsy OR gly]: //Ignore All Topazes Except Perfect Topazes
 //ItemDisplay[skc OR skf OR sku OR skl]: //Ignore All Skulls Except Perfect Skulls
-//ItemDisplay[gcv]: //Ignore Chipped Amethysts
-//ItemDisplay[gcw]: //Ignore Chipped Diamonds
-//ItemDisplay[gcg]: //Ignore Chipped Emeralds
-//ItemDisplay[gcr]: //Ignore Chipped Rubies
-//ItemDisplay[gcb]: //Ignore Chipped Sapphires
-//ItemDisplay[gcy]: //Ignore Chipped Topazes
-//ItemDisplay[skc]: //Ignore Chipped Skulls
-//ItemDisplay[gfv]: //Ignore Flawed Amethysts
-//ItemDisplay[gfw]: //Ignore Flawed Diamonds
-//ItemDisplay[gfg]: //Ignore Flawed Emeralds
-//ItemDisplay[gfr]: //Ignore Flawed Rubies
-//ItemDisplay[gfb]: //Ignore Flawed Sapphires
-//ItemDisplay[gfy]: //Ignore Flawed Topazes
-//ItemDisplay[skf]: //Ignore Flawed Skulls
-//ItemDisplay[gsv]: //Ignore Normal Amethysts
-//ItemDisplay[gsw]: //Ignore Normal Diamonds
-//ItemDisplay[gsg]: //Ignore Normal Emeralds
-//ItemDisplay[gsr]: //Ignore Normal Rubies
-//ItemDisplay[gsb]: //Ignore Normal Sapphires
-//ItemDisplay[gsy]: //Ignore Normal Topazes
-//ItemDisplay[sku]: //Ignore Normal Skulls
+ItemDisplay[gcv]: //Ignore Chipped Amethysts
+ItemDisplay[gcw]: //Ignore Chipped Diamonds
+ItemDisplay[gcg]: //Ignore Chipped Emeralds
+ItemDisplay[gcr]: //Ignore Chipped Rubies
+ItemDisplay[gcb]: //Ignore Chipped Sapphires
+ItemDisplay[gcy]: //Ignore Chipped Topazes
+ItemDisplay[skc]: //Ignore Chipped Skulls
+ItemDisplay[gfv]: //Ignore Flawed Amethysts
+ItemDisplay[gfw]: //Ignore Flawed Diamonds
+ItemDisplay[gfg]: //Ignore Flawed Emeralds
+ItemDisplay[gfr]: //Ignore Flawed Rubies
+ItemDisplay[gfb]: //Ignore Flawed Sapphires
+ItemDisplay[gfy]: //Ignore Flawed Topazes
+ItemDisplay[skf]: //Ignore Flawed Skulls
+ItemDisplay[gsv]: //Ignore Normal Amethysts
+ItemDisplay[gsw]: //Ignore Normal Diamonds
+ItemDisplay[gsg]: //Ignore Normal Emeralds
+ItemDisplay[gsr]: //Ignore Normal Rubies
+ItemDisplay[gsb]: //Ignore Normal Sapphires
+ItemDisplay[gsy]: //Ignore Normal Topazes
+ItemDisplay[sku]: //Ignore Normal Skulls
 ItemDisplay[gzv]: //Ignore Flawless Amethyst
 ItemDisplay[glw]: //Ignore Flawless Diamond
 ItemDisplay[glg]: //Ignore Flawless Emerald
@@ -137,20 +137,20 @@ ItemDisplay[skl]: //Ignore Flawless Skulls
 //╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
 //║                           ▬▬▬▬▬ Rules for Ignoring Misc Items ▬▬▬▬▬                           ║
 //╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
-//ItemDisplay[yps]: //Ignore all Antidote Potions
-//ItemDisplay[wms]: //Ignore all Thawing Potions
-//ItemDisplay[vps]: //Ignore all Stamina Potions
-ItemDisplay[(tsc OR isc) CLVL>7]: //Ignore Town Portal and ID Scrolls (Level 8+)
-//ItemDisplay[opl CLVL>7]: //Ignore Fulminating Potions (Level 8+)
-//ItemDisplay[gpl CLVL>11]: //Ignore Strangling Gas Potions (Level 12+)
-//ItemDisplay[opm CLVL>23]: //Ignore Exploding Potions (Level 24+)
-//ItemDisplay[gpm CLVL>29]: //Ignore Choking Gas Potions (Level 30+)
-//ItemDisplay[ops CLVL>35]: //Ignore Oil Potions (Level 36+)
-//ItemDisplay[gps CLVL>41]: //Ignore Rancid Gas Potions (Level 42+)
-//ItemDisplay[(hp1 OR mp1) CLVL>5]: //Ignore Lesser Healing/Mana Potions (Level 6+)
-//ItemDisplay[(hp2 OR mp2) CLVL>17]: //Ignore Light Healing/Mana Potions (Level 18+)
-//ItemDisplay[(hp3 OR mp3) CLVL>23]: //Ignore Healing/Mana Potions (Level 24+)
-ItemDisplay[(hp4 OR mp4) CLVL>44]: //Ignore Greater Healing/Mana Potions (Level 45+)
+ItemDisplay[yps]: //Ignore all Antidote Potions
+ItemDisplay[wms]: //Ignore all Thawing Potions
+ItemDisplay[vps]: //Ignore all Stamina Potions
+//ItemDisplay[(tsc OR isc) CLVL>7]: //Ignore Town Portal and ID Scrolls (Level 8+)
+ItemDisplay[opl]: //Ignore Fulminating Potions (Level 8+)
+ItemDisplay[gpl]: //Ignore Strangling Gas Potions (Level 12+)
+ItemDisplay[opm]: //Ignore Exploding Potions (Level 24+)
+ItemDisplay[gpm]: //Ignore Choking Gas Potions (Level 30+)
+ItemDisplay[ops]: //Ignore Oil Potions (Level 36+)
+ItemDisplay[gps]: //Ignore Rancid Gas Potions (Level 42+)
+ItemDisplay[(hp1 OR mp1)]: //Ignore Lesser Healing/Mana Potions (Level 6+)
+ItemDisplay[(hp2 OR mp2)]: //Ignore Light Healing/Mana Potions (Level 18+)
+ItemDisplay[(hp3 OR mp3)]: //Ignore Healing/Mana Potions (Level 24+)
+ItemDisplay[(hp4 OR mp4)]: //Ignore Greater Healing/Mana Potions (Level 45+)
 ItemDisplay[rvs CLVL>69]: //Ignore Rejuvenation Potions (Level 70+)
 //╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
 //║                     ▬▬▬▬▬ [Custom] Rules for Displaying Misc Items ▬▬▬▬▬                      ║
