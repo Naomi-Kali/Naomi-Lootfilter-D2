@@ -167,7 +167,7 @@ ItemDisplay[(hp4 OR mp4)]: //Ignore Greater Healing/Mana Potions (Level 45+)
 //ItemDisplay[gcr]: %RED%¦¦¦¦%GOLD%Chipped%RED%¦¦¦¦%WHITE%
 //ItemDisplay[gcb]: %BLUE%¦¦¦¦%GOLD%Chipped%BLUE%¦¦¦¦%WHITE%
 //ItemDisplay[gcy]: %YELLOW%¦¦¦¦%GOLD%Chipped%YELLOW%¦¦¦¦%WHITE%
-ItemDisplay[skc]: %GRAY%¦¦¦¦%GOLD%Csorba%GRAY%¦¦¦¦%WHITE%
+ItemDisplay[skc]: %GRAY%*%GOLD%Csorba%GRAY%
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // Flawed
 //─────────────────────────────────────────────────────────────────────────────────────────────────
@@ -177,7 +177,7 @@ ItemDisplay[skc]: %GRAY%¦¦¦¦%GOLD%Csorba%GRAY%¦¦¦¦%WHITE%
 //ItemDisplay[gfr]: %RED%¦¦|¦%GOLD%Flawed%RED%¦|¦¦%WHITE%
 //ItemDisplay[gfb]: %BLUE%¦¦|¦%GOLD%Flawed%BLUE%¦|¦¦%WHITE%
 //ItemDisplay[gfy]: %YELLOW%¦¦|¦%GOLD%Flawed%YELLOW%¦|¦¦%WHITE%
-ItemDisplay[skf]: %GRAY%*****%GOLD%Hibás%GRAY%
+ItemDisplay[skf]: %GRAY%**%GOLD%Hibás%GRAY%
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // Regular
 //─────────────────────────────────────────────────────────────────────────────────────────────────
