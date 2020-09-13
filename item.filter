@@ -140,7 +140,7 @@ ItemDisplay[skf]: //Ignore Flawed Skulls
 ItemDisplay[yps]: //Ignore all Antidote Potions
 ItemDisplay[wms]: //Ignore all Thawing Potions
 ItemDisplay[vps]: //Ignore all Stamina Potions
-//ItemDisplay[(tsc OR isc) CLVL>7]: //Ignore Town Portal and ID Scrolls (Level 8+)
+//ItemDisplay[(tsc OR isc)]: //Ignore Town Portal and ID Scrolls (Level 8+)
 ItemDisplay[opl]: //Ignore Fulminating Potions (Level 8+)
 ItemDisplay[gpl]: //Ignore Strangling Gas Potions (Level 12+)
 ItemDisplay[opm]: //Ignore Exploding Potions (Level 24+)
@@ -151,7 +151,7 @@ ItemDisplay[(hp1 OR mp1)]: //Ignore Lesser Healing/Mana Potions (Level 6+)
 ItemDisplay[(hp2 OR mp2)]: //Ignore Light Healing/Mana Potions (Level 18+)
 ItemDisplay[(hp3 OR mp3)]: //Ignore Healing/Mana Potions (Level 24+)
 ItemDisplay[(hp4 OR mp4)]: //Ignore Greater Healing/Mana Potions (Level 45+)
-ItemDisplay[rvs CLVL>69]: //Ignore Rejuvenation Potions (Level 70+)
+//ItemDisplay[rvs]: //Ignore Rejuvenation Potions (Level 70+)
 //╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
 //║                     ▬▬▬▬▬ [Custom] Rules for Displaying Misc Items ▬▬▬▬▬                      ║
 //╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
@@ -181,13 +181,13 @@ ItemDisplay[rvs CLVL>69]: //Ignore Rejuvenation Potions (Level 70+)
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // Regular
 //─────────────────────────────────────────────────────────────────────────────────────────────────
-ItemDisplay[gsv]: %PURPLE%¦||¦%GOLD%Gem%PURPLE%¦||¦%WHITE%
-ItemDisplay[gsw]: %WHITE%¦||¦%GOLD%Gem%WHITE%¦||¦
-ItemDisplay[gsg]: %GREEN%¦||¦%GOLD%Gem%GREEN%¦||¦%WHITE%
-ItemDisplay[gsr]: %RED%¦||¦%GOLD%Gem%RED%¦||¦%WHITE%
-ItemDisplay[gsb]: %BLUE%¦||¦%GOLD%Gem%BLUE%¦||¦%WHITE%
-ItemDisplay[gsy]: %YELLOW%¦||¦%GOLD%Gem%YELLOW%¦||¦%WHITE%
-ItemDisplay[sku]: %GRAY%¦||¦%GOLD%Gem%GRAY%¦||¦%WHITE%
+ItemDisplay[gsv]: %PURPLE%¦||¦%GOLD%Normal%PURPLE%¦||¦%WHITE%
+ItemDisplay[gsw]: %WHITE%¦||¦%GOLD%Normal%WHITE%¦||¦
+ItemDisplay[gsg]: %GREEN%¦||¦%GOLD%Normal%GREEN%¦||¦%WHITE%
+ItemDisplay[gsr]: %RED%¦||¦%GOLD%Normal%RED%¦||¦%WHITE%
+ItemDisplay[gsb]: %BLUE%¦||¦%GOLD%Normal%BLUE%¦||¦%WHITE%
+ItemDisplay[gsy]: %YELLOW%¦||¦%GOLD%Normal%YELLOW%¦||¦%WHITE%
+ItemDisplay[sku]: %GRAY%¦||¦%GOLD%Normal%GRAY%¦||¦%WHITE%
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // Flawless
 //─────────────────────────────────────────────────────────────────────────────────────────────────
