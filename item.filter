@@ -181,33 +181,33 @@ ItemDisplay[(hp4 OR mp4)]: //Ignore Greater Healing/Mana Potions (Level 45+)
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // Regular
 //─────────────────────────────────────────────────────────────────────────────────────────────────
-ItemDisplay[gsv]: %PURPLE%¦||¦%GOLD%Normal%PURPLE%¦||¦%WHITE%
-ItemDisplay[gsw]: %WHITE%¦||¦%GOLD%Normal%WHITE%¦||¦
-ItemDisplay[gsg]: %GREEN%¦||¦%GOLD%Normal%GREEN%¦||¦%WHITE%
-ItemDisplay[gsr]: %RED%¦||¦%GOLD%Normal%RED%¦||¦%WHITE%
-ItemDisplay[gsb]: %BLUE%¦||¦%GOLD%Normal%BLUE%¦||¦%WHITE%
-ItemDisplay[gsy]: %YELLOW%¦||¦%GOLD%Normal%YELLOW%¦||¦%WHITE%
-ItemDisplay[sku]: %GRAY%¦||¦%GOLD%Normal%GRAY%¦||¦%WHITE%
+ItemDisplay[gsv]: %PURPLE%***%GOLD%Normál%PURPLE%
+ItemDisplay[gsw]: %WHITE%***%GOLD%Normál%WHITE%
+ItemDisplay[gsg]: %GREEN%***%GOLD%Normál%GREEN%
+ItemDisplay[gsr]: %RED%***%GOLD%Normál%RED%
+ItemDisplay[gsb]: %BLUE%***%GOLD%Normál%BLUE%
+ItemDisplay[gsy]: %YELLOW%***%GOLD%Normál%YELLOW%
+ItemDisplay[sku]: %GRAY%***%GOLD%Normál%GRAY%
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // Flawless
 //─────────────────────────────────────────────────────────────────────────────────────────────────
-ItemDisplay[gzv]: %PURPLE%|||¦%GOLD%Flawless%PURPLE%¦|||%WHITE%
-ItemDisplay[glw]: %WHITE%|||¦%GOLD%Flawless%WHITE%¦|||
-ItemDisplay[glg]: %GREEN%|||¦%GOLD%Flawless%GREEN%¦|||%WHITE%
-ItemDisplay[glr]: %RED%|||¦%GOLD%Flawless%RED%¦|||%WHITE%
-ItemDisplay[glb]: %BLUE%|||¦%GOLD%Flawless%BLUE%¦|||%WHITE%
-ItemDisplay[gly]: %YELLOW%|||¦%GOLD%Flawless%YELLOW%¦|||%WHITE%
-ItemDisplay[skl]: %GRAY%|||¦%GOLD%Flawless%GRAY%¦|||%WHITE%
+ItemDisplay[gzv]: %PURPLE%****%GOLD%Hibátlan%PURPLE%
+ItemDisplay[glw]: %WHITE%****%GOLD%Hibátlan%WHITE%
+ItemDisplay[glg]: %GREEN%****%GOLD%Hibátlan%GREEN%
+ItemDisplay[glr]: %RED%****%GOLD%Hibátlan%RED%
+ItemDisplay[glb]: %BLUE%****%GOLD%Hibátlan%BLUE%
+ItemDisplay[gly]: %YELLOW%****%GOLD%Hibátlan%YELLOW%
+ItemDisplay[skl]: %GRAY%****%GOLD%Hibátlan%GRAY%
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // Perfect
 //─────────────────────────────────────────────────────────────────────────────────────────────────
-ItemDisplay[gpv]: %PURPLE%||||%GOLD%Perfect%PURPLE%||||%WHITE%
-ItemDisplay[gpw]: %WHITE%||||%GOLD%Perfect%WHITE%||||
-ItemDisplay[gpg]: %GREEN%||||%GOLD%Perfect%GREEN%||||%WHITE%
-ItemDisplay[gpr]: %RED%||||%GOLD%Perfect%RED%||||%WHITE%
-ItemDisplay[gpb]: %BLUE%||||%GOLD%Perfect%BLUE%||||%WHITE%
-ItemDisplay[gpy]: %YELLOW%||||%GOLD%Perfect%YELLOW%||||%WHITE%
-ItemDisplay[skz]: %GRAY%||||%GOLD%Perfect%GRAY%||||%WHITE%
+ItemDisplay[gpv]: %PURPLE%*****%GOLD%Tökéletes%PURPLE%
+ItemDisplay[gpw]: %WHITE%*****%GOLD%Tökéletes%WHITE%
+ItemDisplay[gpg]: %GREEN%*****%GOLD%Tökéletes%GREEN%
+ItemDisplay[gpr]: %RED%*****%GOLD%Tökéletes%RED%
+ItemDisplay[gpb]: %BLUE%*****%GOLD%Tökéletes%BLUE%
+ItemDisplay[gpy]: %YELLOW%*****%GOLD%Tökéletes%YELLOW%
+ItemDisplay[skz]: %GRAY%*****%GOLD%Tökéletes%GRAY%
 //╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
 //║                                       ▬▬▬▬▬ Runes ▬▬▬▬▬                                       ║
 //╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
