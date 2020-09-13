@@ -90,7 +90,7 @@ ItemDisplay[GOLD>0]: %NAME%
 //╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
 //║                     ▬▬▬▬▬ [Optional] Rules for Ignoring Misc Items ▬▬▬▬▬                      ║
 //╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
-//ItemDisplay[key]: //Hide keys. You can still buy them.
+ItemDisplay[key]: //Hide keys. You can still buy them.
 ItemDisplay[gcv OR gcw OR gcg OR gcr OR gcb OR gcy OR skc]: //Ignore Chipped Gems
 ItemDisplay[gfv OR gfw OR gfg OR gfr OR gfb OR gfy OR skf]: //Ignore Flawed Gems
 //ItemDisplay[gsv OR gsw OR gsg OR gsr OR gsb OR gsy OR sku]: //Ignore Regular Gems
@@ -116,20 +116,20 @@ ItemDisplay[gfr]: //Ignore Flawed Rubies
 ItemDisplay[gfb]: //Ignore Flawed Sapphires
 ItemDisplay[gfy]: //Ignore Flawed Topazes
 ItemDisplay[skf]: //Ignore Flawed Skulls
-ItemDisplay[gsv]: //Ignore Normal Amethysts
-ItemDisplay[gsw]: //Ignore Normal Diamonds
-ItemDisplay[gsg]: //Ignore Normal Emeralds
-ItemDisplay[gsr]: //Ignore Normal Rubies
-ItemDisplay[gsb]: //Ignore Normal Sapphires
-ItemDisplay[gsy]: //Ignore Normal Topazes
-ItemDisplay[sku]: //Ignore Normal Skulls
-ItemDisplay[gzv]: //Ignore Flawless Amethyst
-ItemDisplay[glw]: //Ignore Flawless Diamond
-ItemDisplay[glg]: //Ignore Flawless Emerald
-ItemDisplay[glr]: //Ignore Flawless Ruby
-ItemDisplay[glb]: //Ignore Flawless Sapphire
-ItemDisplay[gly]: //Ignore Flawless Topaz
-ItemDisplay[skl]: //Ignore Flawless Skulls
+//ItemDisplay[gsv]: //Ignore Normal Amethysts
+//ItemDisplay[gsw]: //Ignore Normal Diamonds
+//ItemDisplay[gsg]: //Ignore Normal Emeralds
+//ItemDisplay[gsr]: //Ignore Normal Rubies
+//ItemDisplay[gsb]: //Ignore Normal Sapphires
+//ItemDisplay[gsy]: //Ignore Normal Topazes
+//ItemDisplay[sku]: //Ignore Normal Skulls
+//ItemDisplay[gzv]: //Ignore Flawless Amethyst
+//ItemDisplay[glw]: //Ignore Flawless Diamond
+//ItemDisplay[glg]: //Ignore Flawless Emerald
+//ItemDisplay[glr]: //Ignore Flawless Ruby
+//ItemDisplay[glb]: //Ignore Flawless Sapphire
+//ItemDisplay[gly]: //Ignore Flawless Topaz
+//ItemDisplay[skl]: //Ignore Flawless Skulls
 //╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
 //║                      ▬▬▬▬▬ [Custom] Rules for Ignoring Misc Items ▬▬▬▬▬                       ║
 //╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
